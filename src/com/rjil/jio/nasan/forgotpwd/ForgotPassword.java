@@ -10,8 +10,8 @@ import javax.mail.internet.MimeMessage;
 
 public class ForgotPassword {
 
-	private static final String SMTP_AUTH_USER = "reliancejiohealth@gmail.com";
-	private static final String SMTP_AUTH_PWD  = "123456@jio";
+	private static final String SMTP_AUTH_USER = "";
+	private static final String SMTP_AUTH_PWD  = "";
 	private static final String SMTP_HOST_NAME = "smtp.gmail.com";
 	private static final int SMTP_HOST_PORT = 465;
 	
